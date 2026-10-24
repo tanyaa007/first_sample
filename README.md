@@ -1,4 +1,4 @@
 # first_sample
 This is my first repository
 <br>
-Author - Tanya Sharma
+Author - Tanya (TannA)
